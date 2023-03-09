@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲: https://github.com/mdecd2023/2b-pj1bg15 \n 網站: https://mdecd2023.github.io/2b-pj1bg15', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲: https://github.com/mdecd2023/2b-pj1bg15 \n 網站: https://mdecd2023.github.io/2b-pj1bg15 \n \n Leader:41023226 --- 陳建霖 \n Member:41023233---黃文彥', 'tags': '', 'url': 'About.html'}]};
